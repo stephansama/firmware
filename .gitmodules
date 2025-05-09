@@ -1,0 +1,4 @@
+[submodule "mx-lily58pro-zmk"]
+	path = mx-lily58pro-zmk
+	url = https://github.com/stephansama/mx-lily58pro-zmk.git
+	branch = main
