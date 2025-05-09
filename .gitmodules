@@ -2,3 +2,6 @@
 	path = mx-lily58pro-zmk
 	url = https://github.com/stephansama/mx-lily58pro-zmk.git
 	branch = main
+[submodule "choc-lily58pro-zmk"]
+	path = choc-lily58pro-zmk
+	url = https://github.com/stephansama/choc-lily58pro-zmk
